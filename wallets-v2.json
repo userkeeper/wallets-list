@@ -850,7 +850,7 @@
   {
     "app_name": "block-watch",
     "name": "Block Watch",
-    "image": "https://block-watch-web.vercel.app/icon.png",
+    "image": "https://raw.githubusercontent.com/ton-connect/wallets-list/main/assets/block_watch.png",
     "about_url": "https://block-watch-web.vercel.app",
     "universal_url": "https://t.me/BLWDev_bot/app?startapp=bridge",
     "bridge": [
